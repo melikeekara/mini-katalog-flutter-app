@@ -144,12 +144,13 @@ Bu uygulama gerçek bir e-ticaret sistemi değildir.
 Eğitim ve demo amaçlı geliştirilmiştir.
 ```
 ---
-
+```
 # 👩‍💻 Geliştirici
 
 Melike Kara
 
 ---
+
 
 
 
