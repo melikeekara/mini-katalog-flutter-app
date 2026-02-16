@@ -135,7 +135,7 @@ flutter run --no-enable-impeller
 # 📸  Ekran fotoğrafı:
 <img width="397" height="887" alt="anasayfa" src="https://github.com/user-attachments/assets/de57b5ea-928a-4c1a-82c0-2a3c61a12fe3" />
 
-
+```
 
 ---
 
@@ -151,5 +151,6 @@ Eğitim ve demo amaçlı geliştirilmiştir.
 Melike Kara
 
 ---
+
 
 
