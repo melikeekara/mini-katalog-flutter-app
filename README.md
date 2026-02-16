@@ -90,6 +90,7 @@ lib/
 
 ---
 
+```
 # 🖥️ Kurulum ve Çalıştırma
 
 ### 1️⃣ Projeyi Klonla
@@ -137,13 +138,12 @@ flutter run --no-enable-impeller
 
 ```
 
----
-
+```
 # 📌 Not
 
 Bu uygulama gerçek bir e-ticaret sistemi değildir.
 Eğitim ve demo amaçlı geliştirilmiştir.
-
+```
 ---
 
 # 👩‍💻 Geliştirici
@@ -151,6 +151,7 @@ Eğitim ve demo amaçlı geliştirilmiştir.
 Melike Kara
 
 ---
+
 
 
 
