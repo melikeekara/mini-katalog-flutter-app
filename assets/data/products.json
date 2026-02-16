@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Kulaklık",
+    "description": "Günlük kullanım için kaliteli kablosuz kulaklık. Gürültü azaltma ve uzun pil ömrü sunar.",
+    "price": 799.90,
+    "image": "assets/images/headphone.png",
+    "category": "Elektronik"
+  },
+  {
+    "id": 2,
+    "title": "Akıllı Saat",
+    "description": "Adım sayar, nabız ölçer, uyku takibi ve bildirim desteği ile gün boyu yanında.",
+    "price": 1299.00,
+    "image": "assets/images/watch.png",
+    "category": "Elektronik"
+  },
+  {
+    "id": 3,
+    "title": "Sırt Çantası",
+    "description": "Laptop bölmeli, suya dayanıklı, şehir kullanımına uygun hafif sırt çantası.",
+    "price": 649.50,
+    "image": "assets/images/bag.png",
+    "category": "Aksesuar"
+  },
+  {
+    "id": 4,
+    "title": "Termos",
+    "description": "Paslanmaz çelik gövde. Sıcak/soğuk koruma özelliğiyle seyahat için ideal.",
+    "price": 289.90,
+    "image": "assets/images/thermos.png",
+    "category": "Ev"
+  }
+]
